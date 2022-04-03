@@ -14,9 +14,3 @@ Config.BinSearch = {
     },
     ["SellWaitTime"] = 5000 -- Time in miliseconds
 }
-
-Config.Zones = {
-    Sell = {
-        Pos   = {x = 29.33, y = -1770.33, z = 29.60}
-    }
-}
